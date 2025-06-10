@@ -1,6 +1,6 @@
 # DAFN24_Robotics_5
 
-DAFN 2024 - Robotics 5: ROS 2 - Node configuration
+DAFN 2025 - Robotics 5: ROS 2 - Node configuration
 
 LaTeX source code and build files.
 
